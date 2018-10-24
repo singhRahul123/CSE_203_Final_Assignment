@@ -1,10 +1,3 @@
-///        From dust I came and to dust I shall return
-/**
-                    Asadullah Bin Rahman
-                        ID:1702021
-                          CSE-17
-    HAJEE MOHAMMAD DANESH SCIENCE AND TECHNOLOGY UNIVERSITY
-*/
 #include<iostream>
 #define sf(f)                            scanf("%d",&f)
 #define pf(f)                            printf("%d\n",f)
